@@ -332,3 +332,7 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+
+# Paket dependency manager
+.paket/paket.exe
+paket-files/
